@@ -1,0 +1,6 @@
+Perl implementation of かわいい relational database.
+
+original implementation in Java is here:
+https://gist.github.com/3380142/75c9f0fc270a87f33446c67f82f6b9232422e1e1
+
+see http://d.hatena.ne.jp/nowokay/20120817
